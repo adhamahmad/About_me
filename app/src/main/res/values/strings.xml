@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="name">Adham Ahmed</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hi my name is Adham Ahmed
+        \n I am 20 years old
+        \n I am currently studying software engineering and will graduate next year.
+\n After graduation I would love to work for a huge company like Google  to gain experience, serve clients and eventually start my own startup.
+\n Due to my field of study, I have a good coding experience. I believe this will make me able to make a helpful impact in any company i join.
+ \n Please let me know if you have any questions. You can reach me by email adhamahmad541@gmail.com
+   or 20196091@stud.fci-cu.edu.eg
+    </string>
+    <string name="what_is_your_nickname">What is your nickname ?</string>
+    <string name="done">Done</string>
+</resources>
